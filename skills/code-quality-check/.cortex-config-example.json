@@ -1,0 +1,21 @@
+{
+  "auto_fix": {
+    "enabled": true,
+    "allow": ["linting", "formatting"],
+    "deny": ["dependencies", "security", "tests"],
+    "auto_approve": false
+  },
+  "metrics": {
+    "enabled": true,
+    "history_limit": 30,
+    "show_trends": true
+  },
+  "quality_gates": {
+    "block_on_security": true,
+    "block_on_build_failure": true,
+    "block_on_test_failures": true,
+    "block_on_type_errors": true,
+    "block_on_linting_errors": true,
+    "allow_warnings": true
+  }
+}
