@@ -1,0 +1,9 @@
+[project]
+name = "session-cost-analysis"
+version = "0.1.0"
+description = "Analyze Cortex Code CLI session costs with input/output/cache token tracking"
+requires-python = ">=3.11"
+dependencies = [
+    "tiktoken>=0.5.0",
+    "rich>=13.0.0",
+]
