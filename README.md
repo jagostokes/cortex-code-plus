@@ -1,5 +1,7 @@
 # Cortex Code Skills
 
+Made by Jago Personal and Professional account for Zipline team. 
+
 Skills to enhance [Snowflake's Cortex Code CLI](https://docs.snowflake.com/en/user-guide/cortex-code/). Install skills to your local Cortex directory and invoke them in conversation.
 
 ## Quick Start
